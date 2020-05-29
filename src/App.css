@@ -1,0 +1,30 @@
+body {
+    background-image: url("./desktop.jpg");
+    background-size: cover;
+    color:white;
+}
+
+h1{
+    color:white;
+}
+
+.main-heading{
+    font-size: 50px;
+}
+
+form{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+
+button{
+    margin-top: 60px;
+}
+.answer-div{
+    margin:50px 300px;
+}
+
+p{
+    font-size: 30px;
+}
